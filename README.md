@@ -27,8 +27,8 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 
 ## Fun Facts
 
-- 🔭 [Share something interesting about yourself]
-- 🌟 [Another fun fact or hobby]
+- 🔭 [love discovering and building]
+- 🌟 [a personility worth the short]
 
 Thanks for stopping by my profile! 😊 Let's connect and build something awesome together!
 
