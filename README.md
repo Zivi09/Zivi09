@@ -23,7 +23,7 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zivi09&show_icons=true)
 
-Language known
+##Language known
 1.Python
 2.SQL
 3.HTML
