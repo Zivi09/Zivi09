@@ -30,7 +30,7 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 - .HTML
 - .Java
 - .C++
--.R programming language
+- .R programming language
 
 ## Fun Facts
 
