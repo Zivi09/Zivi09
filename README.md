@@ -16,14 +16,20 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 
 ## Get in Touch
 
-- 📫 [pereirazivencs232417@gmail.com]
-- 💬 [LINKDEN]
+- 📫 pereirazivencs232417@gmail.com
+- 💬 www.linkedin.com/in/ziven-pereira-
 
 ## My Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zivi09&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/api?usearname=Zivi09&layout=compact)
+Language known
+1.Python
+2.SQL
+3.HTML
+5.Java
+6.C++
+7.R programming language
 
 ## Fun Facts
 
