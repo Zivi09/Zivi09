@@ -25,12 +25,12 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 
 ## Language known
 
-1.Python
-2.SQL
-3.HTML
-5.Java
-6.C++
-7.R programming language
+- .Python
+- .SQL
+- .HTML
+- .Java
+- .C++
+.R programming language
 
 ## Fun Facts
 
