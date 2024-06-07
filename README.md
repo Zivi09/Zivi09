@@ -23,7 +23,7 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zivi09&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Zivi09=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Zivi09=Zivi09&layout=compact)
 
 ## Fun Facts
 
