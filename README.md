@@ -13,7 +13,7 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 - 💻 Second Year Computer Science Student.
 - 🌱 Machine Larning.
 - 🚀 Currently working on "mental Health Self Diagnosis tool" using python Gui &
-      a collabrative registration page using html with @trenise_25.
+      a collabrative registration page using html with [@trenise_25](https://github.com/trenise25).
 
 ## Get in Touch
 
