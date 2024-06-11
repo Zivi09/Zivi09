@@ -12,7 +12,8 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 
 - 💻 Second Year Computer Science Student.
 - 🌱 Machine Larning.
-- 🚀 Currently working on "mental Health Self Diagnosis tool" using python Gui.
+- 🚀 Currently working on "mental Health Self Diagnosis tool" using python Gui &
+      a collabrative registration page using html with @trenise_25.
 
 ## Get in Touch
 
@@ -34,8 +35,8 @@ Hey there! 👋 I'm Ziven,You can aslo call me Zivi, I Currently percuring my De
 
 ## Fun Facts
 
-- 🔭 [love discovering and building]
-- 🌟 [a personility worth the short]
+- 🔭 love discovering and building
+- 🌟 a personility worth the short
 
 Thanks for stopping by my profile! 😊 Let's connect and build something awesome together!
 
