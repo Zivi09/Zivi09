@@ -1,11 +1,24 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ziven</h1>
+<h1 align="center">
+  <span style="font-size: 45px; font-weight: 900; color:#00eaff; text-shadow: 0 0 12px #00eaff;">
+    🚀 Ziven Pereira
+  </span>
+  <br>
+  <span style="font-size: 23px; font-weight: 600; color:#ff004c; text-shadow: 0 0 6px #ff004c;">
+    Developer ▪ Innovator ▪ AI Architect ▪ Creator
+  </span>
+  <br><br>
+  <span style="font-size: 19px; font-weight: 500; color:#cfcfcf; text-shadow: 0 0 6px #00eaff;">
+    <em>If it can be imagined, it can be built.</em>
+  </span>
+</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zivi09&label=Profile%20views&color=0e75b6&style=flat" alt="Zivi09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zivi09&theme=dark_lover" alt="Zivi09" /></a> </p>
 
-- 🔭 I’m currently working on chatbot using langchain **College chatbot**
-- 🌱 I’m currently learning Data Science **vairous machine leaning models ,nlp,face recognition **
+- 🔭 I’m currently working on Research 
+- 🌱 I’m currently learning AWS,Cloud,AI 
 
 - 📫 How to reach me **pereirazivencs232417@gmail.com**
 
