@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zivi09&label=Profile%20views&color=0e75b6&style=flat" alt="Zivi09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zivi09&theme=dark_lover" alt="Zivi09" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zivi09&theme=dark_lover" alt="Zivi09" /></a> </p> -->
 
 - 🔭 I’m currently working on Research 
 - 🌱 I’m currently learning AWS,Cloud,AI 
@@ -48,10 +48,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<!-- <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zivi09&langs_count=8&theme=highcontrast" alt=Zivi09 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zivi09&show_icons=true&locale=en&theme=dark" alt="Zivi09" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zivi09&show_icons=true&locale=en&theme=dark" alt="Zivi09" /></p> -->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zivi09&theme=highcontrast" alt="Zivi09" /></p>
 
